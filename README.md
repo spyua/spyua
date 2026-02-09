@@ -6,10 +6,6 @@
  -  The speach ppt publish on [SlideShare](https://www.slideshare.net/ssuserb645bc)
  -  Usually, I took the notes on [HackMd](https://hackmd.io/@41MKMGSpR_K11_wgmtcRgw) when I study.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=spyua&theme=highcontrast&show_icons=true) 
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyua&theme=highcontrast&layout=compact)
-
 
 <!-- ![Spyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyua&show_icons=true&theme=radical) -->
 
